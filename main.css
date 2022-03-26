@@ -1,0 +1,9 @@
+body {
+  background-color: rgb(124, 224, 124);
+  height: 1000px;
+}
+
+#footer {
+  margin-top: 500px;
+  bottom: 0; 
+}
